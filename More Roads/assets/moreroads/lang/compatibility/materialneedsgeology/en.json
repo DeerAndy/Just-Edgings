@@ -1,0 +1,24 @@
+{
+  //Material Needs: Geology stone edging
+  "block-edgestone-arenite-*-*-*": "Arenite stone edging",
+  "block-edgestone-arkose-*-*-*": "Arkose stone edging",
+  "block-edgestone-komatiite-*-*-*": "Komatiite stone edging",
+  "block-edgestone-marl-*-*-*": "Marl stone edging",
+  "block-edgestone-monzonite-*-*-*": "Monzonite stone edging",
+  "block-edgestone-pyroxenite-*-*-*": "Pyroxenite stone edging",
+  "block-edgestone-serpentinite-*-*-*": "Serpentinite stone edging",
+  "block-edgestone-syenite-*-*-*": "Syenite stone edging",
+  "block-edgestone-tufa-*-*-*": "Tufa stone edging",
+  "block-edgestone-wacke-*-*-*": "Wacke stone edging",
+  //Material Needs: Geology brick edging
+  "block-edgebrick-arenite-*-*-*": "Arenite brick edging",
+  "block-edgebrick-arkose-*-*-*": "Arkose brick edging",
+  "block-edgebrick-komatiite-*-*-*": "Komatiite brick edging",
+  "block-edgebrick-marl-*-*-*": "Marl brick edging",
+  "block-edgebrick-monzonite-*-*-*": "Monzonite brick edging",
+  "block-edgebrick-pyroxenite-*-*-*": "Pyroxenite brick edging",
+  "block-edgebrick-serpentinite-*-*-*": "Serpentinite brick edging",
+  "block-edgebrick-syenite-*-*-*": "Syenite brick edging",
+  "block-edgebrick-tufa-*-*-*": "Tufa brick edging",
+  "block-edgebrick-wacke-*-*-*": "Wacke brick edging"
+}

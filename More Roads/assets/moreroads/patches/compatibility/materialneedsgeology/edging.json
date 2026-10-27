@@ -1,0 +1,161 @@
+[
+  {
+    "file": "moreroads:blocktypes/edging/edge-stone.json",
+    "op": "addmerge",
+    "path": "/variantgroups/0/states",
+    "value": [
+      "arenite",
+      "arkose",
+      "komatiite",
+      "marl",
+      "monzonite",
+      "pyroxenite",
+      "serpentinite",
+      "syenite",
+      "tufa",
+      "wacke"
+    ],
+    "dependsOn": [
+      {
+        "modid": "mngeology"
+      }
+    ]
+  },
+  {
+    "file": "moreroads:recipes/grid/edging/stone/stone.json",
+    "side": "server",
+    "op": "addmerge",
+    "path": "/ingredients/L/allowedVariants",
+    "value": [
+      "arenite",
+      "arkose",
+      "komatiite",
+      "marl",
+      "monzonite",
+      "pyroxenite",
+      "serpentinite",
+      "syenite",
+      "tufa",
+      "wacke"
+    ],
+    "dependsOn": [
+      {
+        "modid": "mngeology"
+      }
+    ]
+  },
+  {
+    "file": "moreroads:blocktypes/edging/edge-brick.json",
+    "op": "addmerge",
+    "path": "/variantgroups/0/states",
+    "value": [
+      "arenite",
+      "arkose",
+      "komatiite",
+      "marl",
+      "monzonite",
+      "pyroxenite",
+      "serpentinite",
+      "syenite",
+      "tufa",
+      "wacke"
+    ],
+    "dependsOn": [
+      {
+        "modid": "mngeology"
+      }
+    ]
+  },
+  {
+    "file": "moreroads:blocktypes/edging/edge-brick.json",
+    "op": "add",
+    "path": "/texturesByType",
+    "value": {
+      "*-arenite-*": {
+        "null": {
+          "base": "game:block/stone/brick/arenite*"
+        },
+        "snowcover": {
+          "base": "game:block/liquid/snow/normal*"
+        }
+      },
+      "*-arkose-*": {
+        "null": {
+          "base": "game:block/stone/brick/arkose*"
+        },
+        "snowcover": {
+          "base": "game:block/liquid/snow/normal*"
+        }
+      },
+      "*-komatiite-*": {
+        "null": {
+          "base": "game:block/stone/brick/komatiite*"
+        },
+        "snowcover": {
+          "base": "game:block/liquid/snow/normal*"
+        }
+      },
+      "*-marl-*": {
+        "null": {
+          "base": "game:block/stone/brick/marl*"
+        },
+        "snowcover": {
+          "base": "game:block/liquid/snow/normal*"
+        }
+      },
+      "*-monzonite-*": {
+        "null": {
+          "base": "game:block/stone/brick/monzonite*"
+        },
+        "snowcover": {
+          "base": "game:block/liquid/snow/normal*"
+        }
+      },
+      "*-pyroxenite-*": {
+        "null": {
+          "base": "game:block/stone/brick/pyroxenite*"
+        },
+        "snowcover": {
+          "base": "game:block/liquid/snow/normal*"
+        }
+      },
+      "*-serpentinite-*": {
+        "null": {
+          "base": "game:block/stone/brick/serpentinite*"
+        },
+        "snowcover": {
+          "base": "game:block/liquid/snow/normal*"
+        }
+      },
+      "*-syenite-*": {
+        "null": {
+          "base": "game:block/stone/brick/syenite*"
+        },
+        "snowcover": {
+          "base": "game:block/liquid/snow/normal*"
+        }
+      },
+      "*-tufa-*": {
+        "null": {
+          "base": "game:block/stone/brick/tufa*"
+        },
+        "snowcover": {
+          "base": "game:block/liquid/snow/normal*"
+        }
+      },
+      "*-wacke-*": {
+        "null": {
+          "base": "game:block/stone/brick/wacke*"
+        },
+        "snowcover": {
+          "base": "game:block/liquid/snow/normal*"
+        }
+      }
+    },
+    "dependsOn": [
+      {
+        "modid": "mngeology"
+      }
+    ]
+  }
+]
