@@ -4,6 +4,9 @@
 - Better Ruins road blueprint compatibility added
 - Compatible with Bricklayers
 - Compatible with Natural Geology
+- Compatible with Material Needs: Geology (stone & brick edging for its 10 rocks)
+- Removed all leftover road / stone path / foot path references: Fixed Paths patches, stone foot path recipe, road remappings, road & path lang entries, stale project entries
+- Wild Crafted Trees edging: shapes now use the edging shapes; wood edge textures moved to textures/block/edging/wildcrafttrees (were left pointing at deleted road folders)
 
 2.0.0
 - Reverted back to a content mod. It's not like I'm gonna make some big fancy roadlaying system anytime soon lmao

@@ -1,13 +1,6 @@
-{
-  //Clay brick roads
-  "block-stoneroad-blue-*": "Дорога из голубой глины",
-  "block-stoneroad-fire-*": "Дорога из огнеупорной глины",
+﻿{
 
-  "block-stoneroadslab-blue-*": "Дорожная плита из голубой глины",
-  "block-stoneroadslab-fire-*": "Дорожная плита из огнеупорной глины",
 
-  "block-stoneroadstairs-blue-up-*-*": "Дорожные ступени из голубой глины",
-  "block-stoneroadstairs-fire-up-*-*": "Дорожные ступени из огнеупорной глины",
 
   //Clay edging
   "block-edgestoneclay-blue-*-*-*": "Бордюр из голубой глины",

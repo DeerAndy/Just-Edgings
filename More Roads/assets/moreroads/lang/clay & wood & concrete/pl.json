@@ -1,13 +1,6 @@
-{
-  //Clay brick roads
-  "block-stoneroad-blue-*": "Droga z niebieskiej gliny",
-  "block-stoneroad-fire-*": "Droga z gliny ogniotrwałej",
+﻿{
 
-  "block-stoneroadslab-blue-*": "Droga z niebieskiej gliny - Płyta",
-  "block-stoneroadslab-fire-*": "Droga z gliny ogniotrwałej - Płyta",
 
-  "block-stoneroadstairs-blue-up-*-*": "Droga z niebieskiej gliny - Schody",
-  "block-stoneroadstairs-fire-up-*-*": "Droga z gliny ogniotrwałej - Schody",
 
   //Clay edging
   "block-edgestoneclay-blue-*-*-*": "Krawężnik z niebeskiej gliny",
