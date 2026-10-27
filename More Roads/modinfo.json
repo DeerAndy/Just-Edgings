@@ -1,12 +1,12 @@
 {
   "type": 1,
   "texturesize": 32,
-  "name": "More Roads & Paths",
+  "name": "Just The Edging - More Roads & Paths",
   "version": "2.0.0",
   "networkversion": null,
-  "description": "Adds new path variants, new roads, and edge decor.",
-  "modid": "moreroads",
-  "authors": ["l33tmaan"],
+  "description": "Only adds edge decor.",
+  "modid": "justedgemoreroads",
+  "authors": ["l33tmaan", "LunaGore"],
   "contributors": ["Stroam", "FuegoFish"],
 
   "side": "Universal",
